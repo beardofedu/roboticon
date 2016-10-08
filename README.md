@@ -1,5 +1,5 @@
 # Welcome to the Repo!
-This repository is an overview of the Introduction to GitHub course offered on Saturday, October 8th, at 10:30a.
+This repository is an overview of the Introduction to GitHub course.
 
 ## GitHub Flow
 [GitHub Flow](https://guides.github.com/introduction/flow/)
