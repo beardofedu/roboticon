@@ -2,8 +2,7 @@
 This repository is an overview of the Introduction to GitHub course.
 
 ## GitHub Flow
-[GitHub Flow](https://guides.github.com/introduction/flow/)
-The GitHub Flow is a branch-centric development workflow that prioritizes creating branches off the `master` or release branch. Changes to the project are applied to the `master` branch and deployed immediately. Although other workflows exist, such as the Git Flow, GitHub prefers this workflow as it doesn't focus on specific release versions but emphasizes building early and often.
+The [GitHub Flow](https://guides.github.com/introduction/flow/) is a branch-centric development workflow that prioritizes creating branches off the `master` or release branch. Changes to the project are applied to the `master` branch and deployed immediately. Although other workflows exist, such as the Git Flow, GitHub prefers this workflow as it doesn't focus on specific release versions but emphasizes building early and often.
 
 ### Issues
 In some instances, before a branch is created to develop a change, an `Issue` is created to discuss an idea or issue for the current release of the project. Teams can discuss the expected next steps before individual collaborators begin working on the change.
